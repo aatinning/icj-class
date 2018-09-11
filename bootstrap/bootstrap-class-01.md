@@ -127,10 +127,10 @@ mkdir docs docs/css docs/js src src/scss
 
 ### Create our index file
 
-Use `touch` to create a new file inside the `/src` folder:
+Use `touch` to create a new file inside the `/docs` folder:
 
 ```bash
-touch src/index.html
+touch docs/index.html
 ```
 Then open the file in VS Code and add this into it:
 

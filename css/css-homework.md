@@ -1,4 +1,4 @@
-# CSS Homeowork: Build a sports story
+# CSS Homework: Build a sports story
 
 For this homework assignment, you will be picking up the last HTML homework assignment and enhancing it with your own CSS, with the directions provided below. You'll also have to figure out some new things, but that is part of coding.
 
